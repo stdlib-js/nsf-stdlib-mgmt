@@ -22,14 +22,15 @@ title: ""
 labels: [ "Deliverable", "status: Triage" ]
 projects: [ "nsf" ]
 body:
-  type: textarea
+  - type: textarea
     id: description
     attributes:
       label: Deliverable
       description: Description of the deliverable.
+      value: ""
     validations:
       required: true
-  type: dropdown
+  - type: dropdown
     id: year
     attributes:
       label: Year
@@ -40,7 +41,7 @@ body:
         - Year 2
     validations:
       required: true
-  type: dropdown
+  - type: dropdown
     id: quarter
     attributes:
       label: Quarter

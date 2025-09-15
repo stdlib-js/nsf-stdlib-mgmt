@@ -31,7 +31,7 @@ body:
     validations:
       required: true
   type: dropdown
-    id: Year
+    id: year
     attributes:
       label: Year
       description: Grant Year
@@ -42,7 +42,7 @@ body:
     validations:
       required: true
   type: dropdown
-    id: Quarter
+    id: quarter
     attributes:
       label: Quarter
       description: Grant Quarter

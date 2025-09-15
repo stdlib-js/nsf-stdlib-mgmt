@@ -27,7 +27,6 @@ body:
     attributes:
       label: Deliverable
       description: Description of the deliverable.
-      value: ""
     validations:
       required: true
   type: dropdown

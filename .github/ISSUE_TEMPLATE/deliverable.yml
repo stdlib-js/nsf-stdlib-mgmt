@@ -35,8 +35,8 @@ body:
       description: Grant year in which the deliverable is due.
       multiple: false
       options:
-        - Year 1
-        - Year 2
+        - Y1
+        - Y2
     validations:
       required: true
   - type: dropdown

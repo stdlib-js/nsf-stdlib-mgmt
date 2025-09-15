@@ -1,4 +1,4 @@
-## :camera_with_flash: Status Review :camera_with_flash:
+## 📸 Status Review 📸
 
 > An opportunity to review the status of grant deliverables and ensure that the project boards are all up-to-date.
 

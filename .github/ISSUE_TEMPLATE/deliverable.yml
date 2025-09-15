@@ -32,7 +32,7 @@ body:
     id: year
     attributes:
       label: Year
-      description: Grant Year
+      description: Grant year in which the deliverable is due.
       multiple: false
       options:
         - Year 1
@@ -43,7 +43,7 @@ body:
     id: quarter
     attributes:
       label: Quarter
-      description: Grant Quarter
+      description: Grant quarter in which the deliverable is due.
       multiple: false
       options:
         - Q1
